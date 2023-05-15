@@ -8,6 +8,7 @@
 * [6 Authors](#6-Authors)
 
 
+
 ## 1  Introduction
 
 Team project to build a clone of AirBnB
@@ -18,45 +19,44 @@ All the development and testing was run on an operating system, Ubuntu 20.04 LTS
 
 ## 3 Installation
 
+```bash
 git@github.com:Rah-7/AirBnB_clone.git
+```
 
 
 ### Execution
-
-Your shell should work like this in interactive mode:
-
+In interactive mode
+```bash
 $ ./console.py
 (hbnb) help
-
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
-
-(hbnb) 
-(hbnb) 
+(hbnb)
+(hbnb)
 (hbnb) quit
 $
-But also in non-interactive mode: (like the Shell project in C)
-
+```
+in Non-interactive mode
+```bash
 $ echo "help" | ./console.py
 (hbnb)
-
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
-(hbnb) 
+(hbnb)
 $
 $ cat test_help
 help
 $
 $ cat test_help | ./console.py
 (hbnb)
-
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
-(hbnb) 
+(hbnb)
 $
+```
 
 ## 4 Testing
 

@@ -68,6 +68,6 @@ All the test are defined in the `tests` folder.
 * Start the console in interactive mode
 
 ## 6  Authors
-Mothafar Bashir Abd Allah <mothafr2016@gmail.com>
-Rahwa Amha <rahigirmam16@gmail.com>
+- Mothafar Bashir Abd Allah <mothafr2016@gmail.com>
+- Rahwa Amha <rahigirmam16@gmail.com>
 
